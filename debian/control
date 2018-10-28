@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: GeosansLight.h
-Description: GeosansLight font for DisplayCore
+Description: GeosansLight
