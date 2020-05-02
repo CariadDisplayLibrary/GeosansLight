@@ -1,7 +1,7 @@
 #ifndef _GEOSANSLIGHT_H
 #define _GEOSANSLIGHT_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t GeosansLight10[];
